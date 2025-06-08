@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm yuxia
 
-<!--
-**luoyuxia/luoyuxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** | 🌍 China | 📧 luoyuxia@alumni.sjtu.edu.cn
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Fluss
+- 🌱 I'm currently learning streaming storage & Rust
+- 👯 I'm looking to collaborate on Rust projects
+- 💬 Ask me about Flink & Fluss
+- ⚡ Fun fact: A programmer who can't do stand-up comedy is not a good rapper.
+
+## 🛠 Tech Stack
+
+![Programming Languages](https://skillicons.dev/icons?i=java,python,rust,scala,cpp)
+
+## 📈 GitHub Stats
+
+![luoyuxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoyuxia&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoyuxia&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luoyuxia@alumni.sjtu.edu.cn)
